@@ -2,4 +2,11 @@ venv/
 __pycache__/
 .DS_Store
 data_raw/
+data_clean/acled_clean.csv
+data_clean/inform_clean.csv 
+data_clean/cerf_clean.csv
+data_clean/econAI_clean.csv
+data_clean/final_data.csv
+data_clean/hdx_clean.csv
+data_clean/idmc_clean.csv
 pipeline/results/
