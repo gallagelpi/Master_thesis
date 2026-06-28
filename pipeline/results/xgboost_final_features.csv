@@ -1,0 +1,2 @@
+Model,N_Features,Threshold,Glob_F1,Glob_P,Glob_R,Glob_AUC,Prot_F1,Prot_P,Prot_R,Prot_AUC,Hard_F1,Hard_P,Hard_R,Hard_AUC
+XGBoost (default),25,0.039,0.3,0.223,0.461,0.889,0.305,0.216,0.516,0.636,0.297,0.229,0.422,0.866
